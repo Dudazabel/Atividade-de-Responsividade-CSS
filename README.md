@@ -1,13 +1,13 @@
 # Projeto Individual: Site sobre Carros Antigos
 
-Este projeto foi uma atividade individual da disciplina de **Programação Frontend**, onde tivemos a liberdade de escolher o tema do site. Optei por criar um site sobre **carros antigos**. O foco principal foi o primeiro contato prático com design responsivo e a construção do site do zero.
+Este projeto foi uma atividade individual da disciplina de **Programação Front-end**, onde tivemos a liberdade de escolher o tema do site. Optei por criar um site sobre **carros antigos**. O foco principal foi o primeiro contato prático com design responsivo e a construção do site do zero.
 
 ---
 
 ## 📝 Descrição do Projeto
 
-- Desenvolvi sozinho todo o site, desde a estrutura HTML até a estilização CSS.  
-- O tema escolhido foi carros antigos, apresentando informações, imagens e curiosidades.  
+- Desenvolvi sozinha todo o site, desde a estrutura HTML até a estilização CSS.  
+- O tema escolhido foi carros antigos, apresentando informações, imagens e responsividade.  
 - O principal objetivo foi praticar e aplicar conceitos de **responsividade**, para que o site funcione bem em diferentes dispositivos (desktop, tablet, mobile).  
 - Usei técnicas básicas de CSS para criar um layout flexível e adaptável, melhorando a experiência do usuário em telas variadas.
 
